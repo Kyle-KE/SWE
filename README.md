@@ -1,7 +1,5 @@
 # food-ordering-system
 
-A new Flutter project.
+Designed by Ridwan Abdullahi.
+Built by Kyle Sawaya.
 
-## Getting Started
-
-FlutterFlow projects are built to run on the Flutter _stable_ release.
